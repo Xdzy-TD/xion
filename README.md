@@ -68,8 +68,8 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Xdzy-TD/xion.git
-cd xion
+git clone https://github.com/Xdzy-TD/XION-Call-Log-and-Signal-Analyzer.git
+cd XION-Call-Log-and-Signal-Analyzer
 pip install -r requirements.txt
 ```
 
