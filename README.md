@@ -68,7 +68,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/xion.git
+git clone https://github.com/Xdzy-TD/xion.git
 cd xion
 pip install -r requirements.txt
 ```
